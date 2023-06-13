@@ -4,4 +4,5 @@
 ![图片](assets/main.jpg "Optional title")
 
 ![图片2](assets/main2.jpg "Optional title")
-![移动2](assets/main3.jpg "Optional title")
+
+<img  src="assets/main3.jpg" width="375"/>
