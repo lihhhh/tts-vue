@@ -1,5 +1,5 @@
 # tts-vue-web
-###[点击使用在线文本转语音](http://localhost:9528/ai/text-to-speech?source=github)
+###[点击使用在线文本转语音](https://tts.byylook.com/ai/text-to-speech?source=github)
 文本内容不限制长度,可多角色朗读,自定义角色配置,兼容移动端,欢迎提建议!
 ![图片](https://yipinzhi.oss-cn-shanghai.aliyuncs.com/assets/main.jpg "Optional title")
 
