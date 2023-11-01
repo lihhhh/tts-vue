@@ -1,6 +1,7 @@
 # tts-vue-web
 ###[点击使用在线文本转语音](https://tts.byylook.com/ai/text-to-speech?source=github)
 文本内容不限制长度,可多角色朗读,自定义角色配置,支持字幕下载!,欢迎提建议!
+后续会出桌面版的,敬请期待!!!
 QQ交流群: 
 61703609
 163854339(已满)
